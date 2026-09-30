@@ -4,11 +4,11 @@
               <div class="col-12">
                   <div class="d-flex justify-content-between align-items-center mb-4">
                       <div class="">
-                          <h1 class="fs-3 mb-1">Kategori Kendaraan</h1>
-                          <p class="mb-0">Manage your product kategori kendaraan</p>
+                          <h1 class="fs-3 mb-1">Penyewaan</h1>
+                          <p class="mb-0">Manage your penyewaan kendaraan</p>
                       </div>
                       <div>
-                          <a href="index.php?page=tambah-kategori" class="btn btn-primary">Add Product</a>
+                          <a href="index.php?page=tambah-penyewaan" class="btn btn-primary">Add Penyewaan</a>
                       </div>
                   </div>
               </div>
